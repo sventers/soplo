@@ -1,4 +1,4 @@
-Emotional classification of music
+A Sound Perspective of Love
 =====
 
 Dataset used
