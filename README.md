@@ -1,4 +1,4 @@
-A Sound Perspective of Love
+a sound perspective of love
 =====
 
 Dataset used
